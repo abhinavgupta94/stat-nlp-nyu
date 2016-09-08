@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Abhinav
+   last: Gupta
+email: ag5799@nyu.edu
+leaderboard: dbg99
