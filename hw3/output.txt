@@ -536,7 +536,7 @@ else	RB
 ?	.
 
 They	PRP
-own	JJ
+own	VBP
 blogger	NN
 ,	,
 of	IN
@@ -1027,13 +1027,13 @@ Appeals	NNP
 replacing	VBG
 John	NNP
 Montague	NNP
-Steadman	NNP
+Steadman	NN
 .	.
 
 Remember	VB
 Luis	NNP
 Posada	NNP
-Carriles	NNP
+Carriles	VBZ
 ?	.
 
 Here	RB
@@ -2407,7 +2407,7 @@ him	PRP
 complicit	JJ
 in	IN
 the	DT
-airliner	JJ
+airliner	NN
 bombing	NN
 ,	,
 were	VBD
@@ -3004,7 +3004,7 @@ prospect	NN
 "	</S>
 
 American	NNP
-defence	NNP
+defence	NN
 chiefs	NNS
 hired	VBD
 a	DT
@@ -5679,7 +5679,7 @@ They	PRP
 were	VBD
 death	NN
 metal	NN
-brainwashed	VBN
+brainwashed	JJ
 fans	NNS
 ,	,
 literally	RB
@@ -7104,7 +7104,7 @@ example	NN
 :	:
 
 John	NNP
-Balance	NNP
+Balance	NN
 from	IN
 Coil	NNP
 .	.
@@ -7135,11 +7135,11 @@ information	NN
 .	.
 )	)
 
-http://en.wikipedia.org/wiki/John_Balance	NNP
+http://en.wikipedia.org/wiki/John_Balance	NN
 
 http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	NNP
 
-Balance	NNP
+Balance	NN
 died	VBD
 in	IN
 2004	CD
@@ -7844,7 +7844,7 @@ to	TO
 partition	VB
 out	RP
 and	CC
-compartmentalize	DT
+compartmentalize	VB
 personal	JJ
 spiritual	NN
 and	CC
@@ -11278,7 +11278,7 @@ Governing	NNP
 Council	NNP
 issued	VBD
 a	DT
-communique	NN
+communique	JJ
 saying	VBG
 ,	,
 "	''
@@ -14826,7 +14826,7 @@ cabinet	NN
 officers	NNS
 ,	,
 who	WP
-outranked	VBN
+outranked	VBD
 him	PRP
 ,	,
 and	CC
@@ -15280,7 +15280,7 @@ of	IN
 shrapnel	NN
 in	IN
 the	DT
-forearm	NN
+forearm	VB
 that	WDT
 caused	VBD
 only	RB
@@ -15621,7 +15621,7 @@ for	IN
 those	DT
 who	WP
 later	RB
-abstain	NNP
+abstain	NN
 ,	,
 "	DT
 visual	JJ
@@ -15773,7 +15773,7 @@ service	NN
 ,	,
 but	CC
 he	PRP
-slacked	VBN
+slacked	VBD
 off	RP
 from	IN
 his	PRP$
@@ -17797,7 +17797,7 @@ cooperate	VB
 even	RB
 if	IN
 rather	RB
-lukewarmly	CD
+lukewarmly	RB
 )	)
 with	IN
 the	DT
@@ -17884,7 +17884,7 @@ the	DT
 offing	NN
 ,	,
 thus	RB
-fatally	IN
+fatally	NN
 weakening	VBG
 the	DT
 legitimacy	NN
@@ -17919,7 +17919,7 @@ Americans	NNPS
 
 In	IN
 a	DT
-communique	NN
+communique	JJ
 ,	,
 the	DT
 AMS	NNP
@@ -19939,7 +19939,7 @@ Russian	NNP
 Federation	NNP
 on	IN
 Civil	NNP
-Defence	NNP
+Defence	NN
 ,	,
 Emergencies	NNP
 and	CC
@@ -20679,7 +20679,7 @@ Semantics	NNP
 ,	,
 Picasa	NNP
 ,	,
-Blogger	NNP
+Blogger	NN
 ,	,
 and	CC
 satellite	NN
